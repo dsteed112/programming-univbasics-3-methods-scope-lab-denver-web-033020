@@ -14,7 +14,6 @@ def link
   puts phrase
 end
 
-def all_phrases (mario,toadstool,link)
-  phrase = "It's-a me, Mario!" 'Thank You Mario! But Our Princess Is In Another Castle!'"It's Dangerous To Go Alone! Take This."
+def all_phrases (phrase)
   puts phrase
 end

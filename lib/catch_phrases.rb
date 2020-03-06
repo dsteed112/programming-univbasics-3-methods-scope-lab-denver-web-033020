@@ -15,5 +15,8 @@ def link
 end
 
 def all_phrases
+  
+  phrase = "It's Dangerous To Go Alone! Take This."
+  phrase = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts phrase
 end
